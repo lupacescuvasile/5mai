@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+video{
+    width: 400px;
+}
+audio{
+    width: 100%;
+}
+table,th,td{
+    border: 2px solid green;
+}
+table{
+    width: 800px;
+}
